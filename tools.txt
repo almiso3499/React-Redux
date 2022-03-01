@@ -1,0 +1,12 @@
+docker-compose up -d
+docker exec backend /bin/sh start.sh
+
+
+
+npx create-react-app name --template typescript
+crear carpetas components y pages
+npm i react-router-dom
+npm i -D @types/react-router-dom
+npm i axios
+npm install @mui/material (opcional)
+npm install @mui/icons-material (opcional)
